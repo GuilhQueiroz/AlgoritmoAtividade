@@ -49,6 +49,12 @@ cmake_ninja_workdir = /home/guilh-queiroz/Dev/Unifacisa/Atal/cmake-build-debug/
 
 build cmake_object_order_depends_target_Atal: phony || .
 
+build CMakeFiles/Atal.dir/atividade3/graph/Grafo.cpp.o: CXX_COMPILER__Atal_unscanned_Debug /home/guilh-queiroz/Dev/Unifacisa/Atal/atividade3/graph/Grafo.cpp || cmake_object_order_depends_target_Atal
+  DEP_FILE = CMakeFiles/Atal.dir/atividade3/graph/Grafo.cpp.o.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/Atal.dir
+  OBJECT_FILE_DIR = CMakeFiles/Atal.dir/atividade3/graph
+
 build CMakeFiles/Atal.dir/atividade3/binaryTrees/main.cpp.o: CXX_COMPILER__Atal_unscanned_Debug /home/guilh-queiroz/Dev/Unifacisa/Atal/atividade3/binaryTrees/main.cpp || cmake_object_order_depends_target_Atal
   DEP_FILE = CMakeFiles/Atal.dir/atividade3/binaryTrees/main.cpp.o.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
@@ -69,7 +75,7 @@ build CMakeFiles/Atal.dir/atividade3/binaryTrees/BinaryTree.cpp.o: CXX_COMPILER_
 #############################################
 # Link the executable Atal
 
-build Atal: CXX_EXECUTABLE_LINKER__Atal_Debug CMakeFiles/Atal.dir/atividade3/binaryTrees/main.cpp.o CMakeFiles/Atal.dir/atividade3/binaryTrees/BinaryTree.cpp.o
+build Atal: CXX_EXECUTABLE_LINKER__Atal_Debug CMakeFiles/Atal.dir/atividade3/graph/Grafo.cpp.o CMakeFiles/Atal.dir/atividade3/binaryTrees/main.cpp.o CMakeFiles/Atal.dir/atividade3/binaryTrees/BinaryTree.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Atal.dir
   POST_BUILD = :

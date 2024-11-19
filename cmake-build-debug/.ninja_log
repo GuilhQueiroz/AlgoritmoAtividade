@@ -1,12 +1,8 @@
 # ninja log v6
-1	391	1732019357480774456	CMakeFiles/Atal.dir/atividade3/binaryTrees/main.cpp.o	e852fb37a361e5d7
+37	382	1732019679061244802	CMakeFiles/Atal.dir/atividade3/binaryTrees/main.cpp.o	e852fb37a361e5d7
 3	397	1732016470083620119	CMakeFiles/Atal.dir/atividade3/graph/Grafo.cpp.o	98a790ba711f5e29
 1	290	1732016470081620103	CMakeFiles/Atal.dir/atividade3/binaryTrees/Binary.cpp.o	4e145e3913f53032
-1	73	1732016502507867684	Atal	a0f1d1f248f18c42
-1	40	1732019462362580146	build.ninja	e71127eb4357ea37
-1	392	1732019357480774456	CMakeFiles/Atal.dir/atividade3/binaryTrees/BinaryTree.cpp.o	f061af2f4849b253
-1	277	1732015903304264283	CMakeFiles/Atal.dir/atividade3/binaryTrees/binary.cpp.o	197394075fb672eb
-0	26	1732019462362580146	build.ninja	e71127eb4357ea37
-37	382	1732019679061244802	CMakeFiles/Atal.dir/atividade3/binaryTrees/main.cpp.o	e852fb37a361e5d7
-37	384	1732019679061244802	CMakeFiles/Atal.dir/atividade3/binaryTrees/BinaryTree.cpp.o	f061af2f4849b253
 384	474	1732019679408247468	Atal	fa2b46729e78339c
+0	26	1732020412130873426	build.ninja	e71127eb4357ea37
+37	384	1732019679061244802	CMakeFiles/Atal.dir/atividade3/binaryTrees/BinaryTree.cpp.o	f061af2f4849b253
+1	277	1732015903304264283	CMakeFiles/Atal.dir/atividade3/binaryTrees/binary.cpp.o	197394075fb672eb
