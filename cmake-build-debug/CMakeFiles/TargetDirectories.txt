@@ -1,0 +1,3 @@
+/home/guilh-queiroz/Dev/Unifacisa/Atal/cmake-build-debug/CMakeFiles/Atal.dir
+/home/guilh-queiroz/Dev/Unifacisa/Atal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/guilh-queiroz/Dev/Unifacisa/Atal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
